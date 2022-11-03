@@ -4,7 +4,8 @@
   "description": "project meant for testing orderup api endpoints",
   "main": "index.js",
   "scripts": {
-    "test": "npx jest __tests__"
+    "test": "npx jest __tests__",
+    "start": "node index.js"
   },
   "author": "",
   "license": "ISC",
