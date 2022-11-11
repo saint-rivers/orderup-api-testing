@@ -1,7 +1,7 @@
 const frisby = require('frisby');
 
-const PROTOCOL = "http"
-const HOST = "188.166.246.95"
+// const PROTOCOL = "http"
+// const HOST = "188.166.246.95"
 
 it('should be a teapot', function () {
     // Return the Frisby.js Spec in the 'it()' (just like a promise)
